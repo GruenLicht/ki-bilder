@@ -13,6 +13,7 @@ Hier liegen die Prompts und Einstellungen zu allen KI-generierten Bildern, die d
 
 | Datum | Bild | Modell |
 |---|---|---|
+| 05.11.2026 | [Equal Pay Day](2026-11-05_equal-pay-day/) | FLUX.2 [dev] |
 | 19.11.2026 | [Community Treffen](2026-11-19_community-treffen/) | FLUX.2 [dev] |
 
 ## Aufbau
